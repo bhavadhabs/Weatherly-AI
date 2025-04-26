@@ -81,37 +81,15 @@ cd weatherlyai
 
 ## Screenshots
 ### Light Mode
-
-### ![HOME PAGE]
+### HOME PAGE
 ![Screenshot 2025-04-26 182343](https://github.com/user-attachments/assets/3f54e787-9ea7-4e98-808a-f17986147725)
 
 ### Dark Mode
-
-### ![HOME PAGE]
+### HOME PAGE
 ![1](https://github.com/user-attachments/assets/4f100366-dec7-413a-be4d-c8bb4354e296)
 
-### ![WEATHER PAGE]
-
-### Dark Mode
-
-### LONDON
-![2](https://github.com/user-attachments/assets/0ee95a41-d65d-4117-b207-4149ad710322)
-![3](https://github.com/user-attachments/assets/61c4b8e6-8460-4b61-ba8a-2afa3c274898)
-
-### PARIS
-![4](https://github.com/user-attachments/assets/84731c90-d3c4-4897-85b4-613702e7d5a1)
-![5](https://github.com/user-attachments/assets/0c10a9c3-cab0-4909-889f-533a74a35307)
-
-### NEWYORK
-![6](https://github.com/user-attachments/assets/9e765800-09cc-4003-bde3-8fd5d794b19f)
-![7](https://github.com/user-attachments/assets/be1113c1-59e2-45fa-8dc6-ec437d8a6e74)
-
-### JAPAN
-![8](https://github.com/user-attachments/assets/30b713b2-59ca-45fd-a29f-c49e998a94b8)
-![9](https://github.com/user-attachments/assets/39907904-865d-4625-b338-e65641dbc439)
-
+### WEATHER PAGE
 ### Light Mode
-
 ### LONDON
 ![10](https://github.com/user-attachments/assets/9a3cae2d-4778-4042-b4f3-cbe1f3e5f7e4)
 ![11](https://github.com/user-attachments/assets/78ad0d04-5d60-4b57-ac11-47e839d889c7)
@@ -128,8 +106,24 @@ cd weatherlyai
 ![16](https://github.com/user-attachments/assets/e3f90525-39fe-40b2-9736-034d6c823fa6)
 ![17](https://github.com/user-attachments/assets/4c947acd-4d3d-4b02-b5b3-ede07335d7e9)
 
-## CHATBOX AI -  WEATHER ASSISTANT
+### Dark Mode
+### LONDON
+![2](https://github.com/user-attachments/assets/0ee95a41-d65d-4117-b207-4149ad710322)
+![3](https://github.com/user-attachments/assets/61c4b8e6-8460-4b61-ba8a-2afa3c274898)
 
+### PARIS
+![4](https://github.com/user-attachments/assets/84731c90-d3c4-4897-85b4-613702e7d5a1)
+![5](https://github.com/user-attachments/assets/0c10a9c3-cab0-4909-889f-533a74a35307)
+
+### NEWYORK
+![6](https://github.com/user-attachments/assets/9e765800-09cc-4003-bde3-8fd5d794b19f)
+![7](https://github.com/user-attachments/assets/be1113c1-59e2-45fa-8dc6-ec437d8a6e74)
+
+### JAPAN
+![8](https://github.com/user-attachments/assets/30b713b2-59ca-45fd-a29f-c49e998a94b8)
+![9](https://github.com/user-attachments/assets/39907904-865d-4625-b338-e65641dbc439)
+
+## CHATBOX AI -  WEATHER ASSISTANT
 ## Light Mode
 ![20](https://github.com/user-attachments/assets/52cc0eae-4cbd-472e-aa73-8928dddb8e04)
 ![21](https://github.com/user-attachments/assets/06b80df8-273a-4534-acb4-f8aaaf18a7a2)
