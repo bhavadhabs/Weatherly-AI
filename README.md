@@ -1,4 +1,4 @@
-**WeatherlyAI — Your Smart Weather Companion**
+### WeatherlyAI — Your Smart Weather Companion
 
 ### Introduction
 
