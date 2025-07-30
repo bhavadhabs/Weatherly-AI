@@ -73,11 +73,9 @@ weather-app/
 **User Input:** Thank you → **Bot Response:** "You're very welcome! 😊 Let me know if you need anything else!"
 
 ### Running the Application (Metro Server)
-1. **Clone the Repository:** git clone https://github.com/your-username/weatherlyai.git
-cd weatherlyai
-2. **Install dependencies:** npm install
-3. **Start Metro and Run Project:** npm start
-4. Open **http://localhost:3000** to view it in the browser.
+1. **Install dependencies:** npm install
+2. **Start Metro and Run Project:** npm start
+3. Open **http://localhost:3000** to view it in the browser.
 
 ## Screenshots
 ### Light Mode
